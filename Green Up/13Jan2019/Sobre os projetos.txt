@@ -1,0 +1,27 @@
+1. Projeto: GreenUp Planejador
+Descrição: Planilha automatizada para gestão de compras, estoques e cardápios dos restaurantes GreenUp (Indianápolis, Vila Olimpia, Itaim)
+Arquivo: GreenUp_PlanejadorInteligente.rar
+
+Objetivos da ferramenta: 
+- Facilitar o pedido de compras com um plano de compras de ingredientes;
+- Controlar a produção e estoque dos dos restaurantes;
+- Fazer a integração entre os estoques das unidades da rede;
+- Controlar a expedição do que deve haver no estoque de cada unidade;
+- Automatizar a criação de cardápios;
+- Emitir relatório dos produtos que precisam ser comprados;
+- Emitir alertas automáticos de aproximação da ausência dos produtos no estoque;
+
+Senha da planilha: senha@123
+Senha do VBA: senha@123
+
+2. Projeto: B3Laser
+Descrição: Planilha automatizada para criação de orçamentos rápidos para cortes à laser
+Arquivo: B3Laser.rar
+
+Objetivos da ferramenta: 
+- Realizar o cadastro de clientes, fornecedores, materiais e tipos de materiais;
+usando a própria planilha como banco de dados;
+- Criar orçamentos referentes a cortes à laser de acordo com as especificações informadas;
+- Exportar os orçamentos para PDF;
+- Desenhar a área utilizada de material que será usado para o corte;
+- Criar relatório do orçamento e exportar o mesmo para PDF;

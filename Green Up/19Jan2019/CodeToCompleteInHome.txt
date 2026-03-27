@@ -1,0 +1,683 @@
+'//////////////////////////////////////////////////////////////////////// WEEK 111111111111111111111111
+	
+If MontaFolhas_Clara1 = False _
+	And MontaFolhas_Clara2 = False 
+	And MontaFolhas_Escura1 = False 
+	And MontaFolhas_Escura2 = False 
+	And MontaFolhas_Wk1_Card2_Prt1 = False 
+	And MontaFolhas_Wk1_Card2_Prt2 = False 
+	And MontaFolhas_Wk1_Card2_Prt3 = False 
+	And MontaFolhas_Wk1_Card2_Prt4 = False 
+	
+    And MontaLegFrut_Wk1_Card1_Prt1 = False 
+    And MontaLegFrut_Wk1_Card1_Prt2 = False 	
+	And MontaLegFrut_Wk1_Card1_Prt3 = False 
+	And MontaLegFrut_Wk1_Card1_Prt4 = False 
+	And MontaLegFrut_Wk1_Card1_Prt5 = False 
+	And MontaLegFrut_Wk1_Card1_Prt6 = False 
+	And MontaLegFrut_Wk1_Card1_Prt7 = False 
+	And MontaLegFrut_Wk1_Card1_Prt8 = False 
+	And MontaLegFrut_Wk1_Card1_Prt9 = False 
+	And MontaLegFrut_Wk1_Card1_PrtLivre = False
+
+	And MontaLegFrut_Wk1_Card2_Prt1 = False 
+	And MontaLegFrut_Wk1_Card2_Prt2 = False 
+	And MontaLegFrut_Wk1_Card2_Prt3 = False 
+	And MontaLegFrut_Wk1_Card2_Prt4 = False 
+	And MontaLegFrut_Wk1_Card2_Prt5 = False 
+	And MontaLegFrut_Wk1_Card2_Prt6 = False 
+	And MontaLegFrut_Wk1_Card2_Prt7 = False 
+	And MontaLegFrut_Wk1_Card2_Prt8 = False 
+	And MontaLegFrut_Wk1_Card2_Prt9 = False 
+	And MontaLegFrut_Wk1_Card2_PrtLivre = False     
+	
+	And MontaGraos_Wk1_Card1_Prt1 = False 
+	And MontaGraos_Wk1_Card1_Prt2 = False 
+	And MontaGraos_Wk1_Card1_Prt3 = False 
+	And MontaGraos_Wk1_Card1_PrtLivre = False
+	And MontaGraos_Wk1_Card2_Prt1 = False 
+	And MontaGraos_Wk1_Card2_Prt2 = False 
+	And MontaGraos_Wk1_Card2_Prt3 = False 
+	And MontaGraos_Wk1_Card2_PrtLivre = False
+	
+	And MontaProteico_Wk1_Card1_Prt1 = False 
+	And MontaProteico_Wk1_Card1_Prt2 = False 
+	And MontaProteico_Wk1_Card1_Prt3 = False 
+	And MontaProteico_Wk1_Card1_PrtLivre = False
+	And MontaProteico_Wk1_Card2_Prt1 = False 
+	And MontaProteico_Wk1_Card2_Prt2 = False 
+	And MontaProteico_Wk1_Card2_Prt3 = False 
+	And MontaProteico_Wk1_Card2_PrtLivre = False     
+	
+	And MontaMolhos_Wk1_Card1_Prt1 = False 
+	And MontaMolhos_Wk1_Card1_Prt2 = False 
+	And MontaMolhos_Wk1_Card1_Prt3 = False 
+	And MontaMolhos_Wk1_Card1_PrtLivre = False 
+	And MontaMolhos_Wk1_Card2_Prt1 = False 
+	And MontaMolhos_Wk1_Card2_Prt2 = False 
+	And MontaMolhos_Wk1_Card2_Prt3 = False 
+	And MontaMolhos_Wk1_Card2_PrtLivre = False    
+	
+	And MontaProteina_Wk1_Card1_Prt1 = False 
+	And MontaProteina_Wk1_Card1_Prt2 = False 
+	And MontaProteina_Wk1_Card1_Prt3 = False 
+	And MontaProteina_Wk1_Card1_PrtLivre = False 
+	And MontaProteina_Wk1_Card2_Prt1 = False 
+	And MontaProteina_Wk1_Card2_Prt2 = False 
+	And MontaProteina_Wk1_Card2_Prt3 = False 
+	And MontaProteina_Wk1_Card2_PrtLivre = False    
+	
+	And MontaGuarnicao_Wk1_Card1_Prt1 = False 
+	And MontaGuarnicao_Wk1_Card1_Prt2 = False 
+	And MontaGuarnicao_Wk1_Card1_Prt3 = False 
+	And MontaGuarnicao_Wk1_Card1_Prt4 = False 
+	And MontaGuarnicao_Wk1_Card1_Prt5 = False 
+	And MontaGuarnicao_Wk1_Card1_PrtLivre = False 
+	And MontaGuarnicao_Wk1_Card2_Prt1 = False 
+	And MontaGuarnicao_Wk1_Card2_Prt2 = False 
+	And MontaGuarnicao_Wk1_Card2_Prt3 = False 
+	And MontaGuarnicao_Wk1_Card2_Prt4 = False 
+	And MontaGuarnicao_Wk1_Card2_Prt5 = False 
+	And MontaGuarnicao_Wk1_Card2_PrtLivre = False
+	
+	And MontaBQOutros_Wk1_Card1_Prt1 = False 
+	And MontaBQOutros_Wk1_Card1_Prt2 = False 
+	And MontaBQOutros_Wk1_Card1_Prt3 = False 
+	And MontaBQOutros_Wk1_Card1_Prt4 = False 
+	And MontaBQOutros_Wk1_Card1_Prt5 = False 
+	And MontaBQOutros_Wk1_Card1_PrtLivre = False 
+	And MontaBQOutros_Wk1_Card2_Prt1 = False 
+	And MontaBQOutros_Wk1_Card2_Prt2 = False 
+	And MontaBQOutros_Wk1_Card2_Prt3 = False 
+	And MontaBQOutros_Wk1_Card2_Prt4 = False 
+	And MontaBQOutros_Wk1_Card2_Prt5 = False 
+	And MontaBQOutros_Wk1_Card2_PrtLivre = False
+	
+	And MontaSanduiches_Wk1_Card1_Prt1 = False 
+	And MontaSanduiches_Wk1_Card1_Prt2 = False 
+	And MontaSanduiches_Wk1_Card1_Prt3 = False 
+	And MontaSanduiches_Wk1_Card1_Prt4 = False 
+	And MontaSanduiches_Wk1_Card1_Prt5 = False 
+	And MontaSanduiches_Wk1_Card1_PrtLivre = False 
+	And MontaSanduiches_Wk1_Card2_Prt1 = False 
+	And MontaSanduiches_Wk1_Card2_Prt2 = False 
+	And MontaSanduiches_Wk1_Card2_Prt3 = False 
+	And MontaSanduiches_Wk1_Card2_Prt4 = False 
+	And MontaSanduiches_Wk1_Card2_Prt5 = False 
+	And MontaSanduiches_Wk1_Card2_PrtLivre = False
+	
+	And MontaCopos_Wk1_Card1_Prt1 = False 
+	And MontaCopos_Wk1_Card1_Prt2 = False 
+	And MontaCopos_Wk1_Card1_PrtLivre = False 
+	And MontaCopos_Wk1_Card2_Prt1 = False 
+	And MontaCopos_Wk1_Card2_Prt2 = False 
+	And MontaCopos_Wk1_Card2_PrtLivre = False
+	
+	And MontaSalada_Wk1_Card1_Prt1 = False 
+	And MontaSalada_Wk1_Card1_Prt2 = False 
+	And MontaSalada_Wk1_Card1_PrtLivre = False 
+	And MontaSalada_Wk1_Card2_Prt1 = False 
+	And MontaSalada_Wk1_Card2_Prt2 = False 
+	And MontaSalada_Wk1_Card2_PrtLivre = False
+	
+	And MontaGrOutros_Wk1_Card1_Prt1 = False 
+	And MontaGrOutros_Wk1_Card1_Prt2 = False 
+	And MontaGrOutros_Wk1_Card1_Prt3 = False 
+	And MontaGrOutros_Wk1_Card1_PrtLivre = False 
+	And MontaGrOutros_Wk1_Card2_Prt1 = False 
+	And MontaGrOutros_Wk1_Card2_Prt2 = False 
+	And MontaGrOutros_Wk1_Card2_Prt3 = False 
+	And MontaGrOutros_Wk1_Card2_PrtLivre = False    
+Then
+	contaFalhas = contaFalhas + 1
+Endif
+
+'//////////////////////////////////////////////////////////////////////// WEEK 222222222222222222222222222 
+    
+If MontaFolhas_Wk2_Card1_Prt1 = False 
+	And MontaFolhas_Wk2_Card1_Prt2 = False 
+	And MontaFolhas_Wk2_Card1_Prt3 = False 
+	And MontaFolhas_Wk2_Card1_Prt4 = False 
+	And MontaFolhas_Wk2_Card2_Prt1 = False 
+	And MontaFolhas_Wk2_Card2_Prt2 = False 
+	And MontaFolhas_Wk2_Card2_Prt3 = False
+	And MontaFolhas_Wk2_Card2_Prt4 = False  
+	And MontaLegFrut_Wk2_Card1_Prt1 = False 
+	And MontaLegFrut_Wk2_Card1_Prt2 = False 	
+	And MontaLegFrut_Wk2_Card1_Prt3 = False 
+	And MontaLegFrut_Wk2_Card1_Prt4 = False 
+	And MontaLegFrut_Wk2_Card1_Prt5 = False 
+	And MontaLegFrut_Wk2_Card1_Prt6 = False 
+	And MontaLegFrut_Wk2_Card1_Prt7 = False 
+	And MontaLegFrut_Wk2_Card1_Prt8 = False 
+	And MontaLegFrut_Wk2_Card1_Prt9 = False 
+	And MontaLegFrut_Wk2_Card1_PrtLivre = False
+    And MontaLegFrut_Wk2_Card2_Prt1 = False 
+    And MontaLegFrut_Wk2_Card2_Prt2 = False 
+    And MontaLegFrut_Wk2_Card2_Prt3 = False 
+    And MontaLegFrut_Wk2_Card2_Prt4 = False 
+    And MontaLegFrut_Wk2_Card2_Prt5 = False 
+    And MontaLegFrut_Wk2_Card2_Prt6 = False 
+    And MontaLegFrut_Wk2_Card2_Prt7 = False 
+    And MontaLegFrut_Wk2_Card2_Prt8 = False 
+    And MontaLegFrut_Wk2_Card2_Prt9 = False 
+    And MontaLegFrut_Wk2_Card2_PrtLivre = False
+
+    And MontaGraos_Wk2_Card1_Prt1 = False 
+    And MontaGraos_Wk2_Card1_Prt2 = False 
+    And MontaGraos_Wk2_Card1_Prt3 = False 
+    And MontaGraos_Wk2_Card1_PrtLivre = False
+    And MontaGraos_Wk2_Card2_Prt1 = False 
+    And MontaGraos_Wk2_Card2_Prt2 = False 
+    And MontaGraos_Wk2_Card2_Prt3 = False 
+    And MontaGraos_Wk2_Card2_PrtLivre = False
+
+	And MontaProteico_Wk2_Card1_Prt1 = False 
+	And MontaProteico_Wk2_Card1_Prt2 = False 
+	And MontaProteico_Wk2_Card1_Prt3 = False 
+	And MontaProteico_Wk2_Card1_PrtLivre = False
+    And MontaProteico_Wk2_Card2_Prt1 = False
+    And MontaProteico_Wk2_Card2_Prt2 = False 
+    And MontaProteico_Wk2_Card2_Prt3 = False
+    And MontaProteico_Wk2_Card2_PrtLivre = False
+
+	And MontaMolhos_Wk2_Card1_Prt1 = False 
+	And MontaMolhos_Wk2_Card1_Prt2 = False 
+	And MontaMolhos_Wk2_Card1_Prt3 = False 
+	And	MontaMolhos_Wk2_Card1_PrtLivre = False 
+	And MontaMolhos_Wk2_Card2_Prt1 = False 
+	And MontaMolhos_Wk2_Card2_Prt2 = False 
+	And MontaMolhos_Wk2_Card2_Prt3 = False 
+	And MontaMolhos_Wk2_Card2_PrtLivre = False
+
+    And MontaProteina_Wk2_Card1_Prt1 = False 
+    And MontaProteina_Wk2_Card1_Prt2 = False 
+    And MontaProteina_Wk2_Card1_Prt3 = False 
+    And MontaProteina_Wk2_Card1_PrtLivre = False 
+    And MontaProteina_Wk2_Card2_Prt1 = False 
+    And MontaProteina_Wk2_Card2_Prt2 = False 
+    And MontaProteina_Wk2_Card2_Prt3 = False 
+    And MontaProteina_Wk2_Card2_PrtLivre = False
+
+    And MontaGuarnicao_Wk2_Card1_Prt1 = False 
+    And MontaGuarnicao_Wk2_Card1_Prt2 = False 
+    And MontaGuarnicao_Wk2_Card1_Prt3 = False 
+    And MontaGuarnicao_Wk2_Card1_Prt4 = False 
+    And MontaGuarnicao_Wk2_Card1_Prt5 = False 
+    And MontaGuarnicao_Wk2_Card1_PrtLivre = False 
+    And MontaGuarnicao_Wk2_Card2_Prt1 = False 
+    And MontaGuarnicao_Wk2_Card2_Prt2 = False 
+    And MontaGuarnicao_Wk2_Card2_Prt3 = False 
+    And MontaGuarnicao_Wk2_Card2_Prt4 = False 
+    And MontaGuarnicao_Wk2_Card2_Prt5 = False 
+    And MontaGuarnicao_Wk2_Card2_PrtLivre = False
+
+    And MontaBQOutros_Wk2_Card1_Prt1 = False 
+    And MontaBQOutros_Wk2_Card1_Prt2 = False 
+    And MontaBQOutros_Wk2_Card1_Prt3 = False 
+    And MontaBQOutros_Wk2_Card1_Prt4 = False 
+    And MontaBQOutros_Wk2_Card1_Prt5 = False 
+    And MontaBQOutros_Wk2_Card1_PrtLivre = False 
+    And MontaBQOutros_Wk2_Card2_Prt1 = False 
+    And MontaBQOutros_Wk2_Card2_Prt2 = False 
+    And MontaBQOutros_Wk2_Card2_Prt3 = False 
+    And MontaBQOutros_Wk2_Card2_Prt4 = False 
+    And MontaBQOutros_Wk2_Card2_Prt5 = False 
+    And MontaBQOutros_Wk2_Card2_PrtLivre = False
+
+    And MontaSanduiches_Wk2_Card1_Prt1 = False 
+    And MontaSanduiches_Wk2_Card1_Prt2 = False 
+    And MontaSanduiches_Wk2_Card1_Prt3 = False 
+    And MontaSanduiches_Wk2_Card1_Prt4 = False 
+    And MontaSanduiches_Wk2_Card1_Prt5 = False 
+    And MontaSanduiches_Wk2_Card1_PrtLivre = False 
+    And MontaSanduiches_Wk2_Card2_Prt1 = False 
+    And MontaSanduiches_Wk2_Card2_Prt2 = False 
+    And MontaSanduiches_Wk2_Card2_Prt3 = False 
+    And MontaSanduiches_Wk2_Card2_Prt4 = False 
+    And MontaSanduiches_Wk2_Card2_Prt5 = False 
+    And MontaSanduiches_Wk2_Card2_PrtLivre = False
+
+    And MontaCopos_Wk2_Card1_Prt1 = False 
+    And MontaCopos_Wk2_Card1_Prt2 = False 
+    And MontaCopos_Wk2_Card1_PrtLivre = False 
+    And MontaCopos_Wk2_Card2_Prt1 = False 
+    And MontaCopos_Wk2_Card2_Prt2 = False 
+    And MontaCopos_Wk2_Card2_PrtLivre = False
+
+    And MontaSalada_Wk2_Card1_Prt1 = False 
+    And MontaSalada_Wk2_Card1_Prt2 = False 
+    And MontaSalada_Wk2_Card1_PrtLivre = False 
+    And MontaSalada_Wk2_Card2_Prt1 = False 
+    And MontaSalada_Wk2_Card2_Prt2 = False 
+    And MontaSalada_Wk2_Card2_PrtLivre = False
+
+    And MontaGrOutros_Wk2_Card1_Prt1 = False 
+    And MontaGrOutros_Wk2_Card1_Prt2 = False 
+    And MontaGrOutros_Wk2_Card1_Prt3 = False 
+    And MontaGrOutros_Wk2_Card1_PrtLivre = False 
+    And MontaGrOutros_Wk2_Card2_Prt1 = False 
+    And MontaGrOutros_Wk2_Card2_Prt2 = False 
+    And MontaGrOutros_Wk2_Card2_Prt3 = False 
+    And MontaGrOutros_Wk2_Card2_PrtLivre = False
+Then
+	contaFalhas = contaFalhas + 1
+Endif    
+
+'//////////////////////////////////////////////////////////////////////// WEEK 3333333333333333333333333
+
+If MontaFolhas_Wk3_Card1_Prt1 = False 
+	And MontaFolhas_Wk3_Card1_Prt2 = False 
+	And MontaFolhas_Wk3_Card1_Prt3 = False 
+	And MontaFolhas_Wk3_Card1_Prt4 = False
+    And MontaFolhas_Wk3_Card2_Prt1 = False 
+    And MontaFolhas_Wk3_Card2_Prt2 = False 
+    And MontaFolhas_Wk3_Card2_Prt3 = False 
+    And MontaFolhas_Wk3_Card2_Prt4 = False 
+
+    And MontaLegFrut_Wk3_Card1_Prt1 = False 
+    And MontaLegFrut_Wk3_Card1_Prt2 = False 
+    And MontaLegFrut_Wk3_Card1_Prt3 = False 
+    And MontaLegFrut_Wk3_Card1_Prt4 = False 
+    And MontaLegFrut_Wk3_Card1_Prt5 = False 
+    And MontaLegFrut_Wk3_Card1_Prt6 = False 
+    And MontaLegFrut_Wk3_Card1_Prt7 = False 
+    And MontaLegFrut_Wk3_Card1_Prt8 = False 
+    And MontaLegFrut_Wk3_Card1_Prt9 = False 
+    And MontaLegFrut_Wk3_Card1_PrtLivre = False
+    And MontaLegFrut_Wk3_Card2_Prt1 = False 
+    And MontaLegFrut_Wk3_Card2_Prt2 = False 
+    And MontaLegFrut_Wk3_Card2_Prt3 = False 
+    And MontaLegFrut_Wk3_Card2_Prt4 = False 
+    And MontaLegFrut_Wk3_Card2_Prt5 = False 
+    And MontaLegFrut_Wk3_Card2_Prt6 = False 
+    And MontaLegFrut_Wk3_Card2_Prt7 = False 
+    And MontaLegFrut_Wk3_Card2_Prt8 = False 
+    And MontaLegFrut_Wk3_Card2_Prt9 = False 
+    And MontaLegFrut_Wk3_Card2_PrtLivre = False     
+
+ 	And MontaGraos_Wk3_Card1_Prt1 = False 
+ 	And MontaGraos_Wk3_Card1_Prt2 = False 
+ 	And MontaGraos_Wk3_Card1_Prt3 = False 
+ 	And MontaGraos_Wk3_Card1_PrtLivre = False 
+ 	And MontaGraos_Wk3_Card2_Prt1 = False 
+ 	And MontaGraos_Wk3_Card2_Prt2 = False 
+ 	And MontaGraos_Wk3_Card2_Prt3 = False 
+ 	And MontaGraos_Wk3_Card2_PrtLivre = False
+
+    And MontaProteico_Wk3_Card1_Prt1 = False 
+    And MontaProteico_Wk3_Card1_Prt2 = False 
+    And MontaProteico_Wk3_Card1_Prt3 = False 
+    And MontaProteico_Wk3_Card1_PrtLivre = False
+    And MontaProteico_Wk3_Card2_Prt1 = False 
+    And MontaProteico_Wk3_Card2_Prt2 = False 
+    And MontaProteico_Wk3_Card2_Prt3 = False 
+    And MontaProteico_Wk3_Card2_PrtLivre = False
+
+    And MontaMolhos_Wk3_Card1_Prt1 = False 
+    And MontaMolhos_Wk3_Card1_Prt2 = False 
+    And MontaMolhos_Wk3_Card1_Prt3 = False 
+    And MontaMolhos_Wk3_Card1_PrtLivre = False 
+    And MontaMolhos_Wk3_Card2_Prt1 = False 
+    And MontaMolhos_Wk3_Card2_Prt2 = False 
+    And MontaMolhos_Wk3_Card2_Prt3 = False 
+    And MontaMolhos_Wk3_Card2_PrtLivre = False
+
+    And MontaProteina_Wk3_Card1_Prt1 = False 
+    And MontaProteina_Wk3_Card1_Prt2 = False 
+    And MontaProteina_Wk3_Card1_Prt3 = False 
+    And MontaProteina_Wk3_Card1_PrtLivre = False 
+    And MontaProteina_Wk3_Card2_Prt1 = False 
+    And MontaProteina_Wk3_Card2_Prt2 = False 
+    And MontaProteina_Wk3_Card2_Prt3 = False 
+    And MontaProteina_Wk3_Card2_PrtLivre = False
+
+    And MontaGuarnicao_Wk3_Card1_Prt1 = False 
+    And MontaGuarnicao_Wk3_Card1_Prt2 = False 
+    And MontaGuarnicao_Wk3_Card1_Prt3 = False 
+    And MontaGuarnicao_Wk3_Card1_Prt4 = False 
+    And MontaGuarnicao_Wk3_Card1_Prt5 = False 
+    And MontaGuarnicao_Wk3_Card1_PrtLivre = False 
+    And MontaGuarnicao_Wk3_Card2_Prt1 = False 
+    And MontaGuarnicao_Wk3_Card2_Prt2 = False 
+    And MontaGuarnicao_Wk3_Card2_Prt3 = False 
+    And MontaGuarnicao_Wk3_Card2_Prt4 = False 
+    And MontaGuarnicao_Wk3_Card2_Prt5 = False 
+    And MontaGuarnicao_Wk3_Card2_PrtLivre = False
+
+    And MontaBQOutros_Wk3_Card1_Prt1 = False 
+    And MontaBQOutros_Wk3_Card1_Prt2 = False 
+    And MontaBQOutros_Wk3_Card1_Prt3 = False 
+    And MontaBQOutros_Wk3_Card1_Prt4 = False 
+    And MontaBQOutros_Wk3_Card1_Prt5 = False 
+    And MontaBQOutros_Wk3_Card1_PrtLivre = False 
+    And MontaBQOutros_Wk3_Card2_Prt1 = False 
+    And MontaBQOutros_Wk3_Card2_Prt2 = False 
+    And MontaBQOutros_Wk3_Card2_Prt3 = False 
+    And MontaBQOutros_Wk3_Card2_Prt4 = False 
+    And MontaBQOutros_Wk3_Card2_Prt5 = False 
+    And MontaBQOutros_Wk3_Card2_PrtLivre = False
+
+    And MontaSanduiches_Wk3_Card1_Prt1 = False 
+    And MontaSanduiches_Wk3_Card1_Prt2 = False 
+    And MontaSanduiches_Wk3_Card1_Prt3 = False 
+    And MontaSanduiches_Wk3_Card1_Prt4 = False 
+    And MontaSanduiches_Wk3_Card1_Prt5 = False 
+    And MontaSanduiches_Wk3_Card1_PrtLivre = False 
+    And MontaSanduiches_Wk3_Card2_Prt1 = False 
+    And MontaSanduiches_Wk3_Card2_Prt2 = False 
+    And MontaSanduiches_Wk3_Card2_Prt3 = False 
+    And MontaSanduiches_Wk3_Card2_Prt4 = False 
+    And MontaSanduiches_Wk3_Card2_Prt5 = False 
+    And MontaSanduiches_Wk3_Card2_PrtLivre = False
+
+	And MontaCopos_Wk3_Card1_Prt1 = False 
+	And MontaCopos_Wk3_Card1_Prt2 = False 
+	And MontaCopos_Wk3_Card1_PrtLivre = False 
+	And MontaCopos_Wk3_Card2_Prt1 = False 
+	And MontaCopos_Wk3_Card2_Prt2 = False 
+	And MontaCopos_Wk3_Card2_PrtLivre = False    
+
+    And MontaSalada_Wk3_Card1_Prt1 = False 
+    And MontaSalada_Wk3_Card1_Prt2 = False 
+    And MontaSalada_Wk3_Card1_PrtLivre = False 
+    And MontaSalada_Wk3_Card2_Prt1 = False 
+    And MontaSalada_Wk3_Card2_Prt2 = False 
+    And MontaSalada_Wk3_Card2_PrtLivre = False And 
+
+    And MontaGrOutros_Wk3_Card1_Prt1 = False 
+    And MontaGrOutros_Wk3_Card1_Prt2 = False 
+    And MontaGrOutros_Wk3_Card1_Prt3 = False 
+    And MontaGrOutros_Wk3_Card1_PrtLivre = False 
+    And MontaGrOutros_Wk3_Card2_Prt1 = False 
+    And MontaGrOutros_Wk3_Card2_Prt2 = False 
+    And MontaGrOutros_Wk3_Card2_Prt3 = False 
+    And MontaGrOutros_Wk3_Card2_PrtLivre = False
+Then
+   contaFalhas = contaFalhas + 1
+End If    
+
+'//////////////////////////////////////////////////////////////////////// WEEK 4444444444444444444444444
+
+If MontaFolhas_Wk4_Card1_Prt1 = False 
+	And MontaFolhas_Wk4_Card1_Prt2 = False 
+	And MontaFolhas_Wk4_Card1_Prt3 = False 
+	And MontaFolhas_Wk4_Card1_Prt4 = False
+    And MontaFolhas_Wk4_Card2_Prt1 = False
+    And MontaFolhas_Wk4_Card2_Prt2 = False 
+    And MontaFolhas_Wk4_Card2_Prt3 = False 
+    And MontaFolhas_Wk4_Card2_Prt4 = False 
+
+	And MontaLegFrut_Wk4_Card1_Prt1 = False 
+	And MontaLegFrut_Wk4_Card1_Prt2 = False 
+	And MontaLegFrut_Wk4_Card1_Prt3 = False 
+	And MontaLegFrut_Wk4_Card1_Prt4 = False 
+	And MontaLegFrut_Wk4_Card1_Prt5 = False 
+	And MontaLegFrut_Wk4_Card1_Prt6 = False 
+	And MontaLegFrut_Wk4_Card1_Prt7 = False 
+	And MontaLegFrut_Wk4_Card1_Prt8 = False 
+	And MontaLegFrut_Wk4_Card1_Prt9 = False 
+	And MontaLegFrut_Wk4_Card1_PrtLivre = False
+    And MontaLegFrut_Wk4_Card2_Prt1 = False 
+    And MontaLegFrut_Wk4_Card2_Prt2 = False 
+    And MontaLegFrut_Wk4_Card2_Prt3 = False 
+    And MontaLegFrut_Wk4_Card2_Prt4 = False 
+    And MontaLegFrut_Wk4_Card2_Prt5 = False 
+    And MontaLegFrut_Wk4_Card2_Prt6 = False 
+    And MontaLegFrut_Wk4_Card2_Prt7 = False 
+    And MontaLegFrut_Wk4_Card2_Prt8 = False 
+    And MontaLegFrut_Wk4_Card2_Prt9 = False 
+    And MontaLegFrut_Wk4_Card2_PrtLivre = False
+
+    And MontaGraos_Wk4_Card1_Prt1 = False 
+    And MontaGraos_Wk4_Card1_Prt2 = False 
+    And MontaGraos_Wk4_Card1_Prt3 = False 
+    And MontaGraos_Wk4_Card1_PrtLivre = False 
+    And MontaGraos_Wk4_Card2_Prt1 = False 
+    And MontaGraos_Wk4_Card2_Prt2 = False 
+    And MontaGraos_Wk4_Card2_Prt3 = False 
+    And MontaGraos_Wk4_Card2_PrtLivre = False
+
+    And MontaProteico_Wk4_Card1_Prt1 = False 
+    And MontaProteico_Wk4_Card1_Prt2 = False 
+    And MontaProteico_Wk4_Card1_Prt3 = False 
+    And MontaProteico_Wk4_Card1_PrtLivre = False
+    And MontaProteico_Wk4_Card2_Prt1 = False 
+    And MontaProteico_Wk4_Card2_Prt2 = False 
+    And MontaProteico_Wk4_Card2_Prt3 = False 
+    And MontaProteico_Wk4_Card2_PrtLivre = False
+
+    And MontaMolhos_Wk4_Card1_Prt1 = False 
+    And MontaMolhos_Wk4_Card1_Prt2 = False 
+    And MontaMolhos_Wk4_Card1_Prt3 = False 
+    And MontaMolhos_Wk4_Card1_PrtLivre = False 
+    And MontaMolhos_Wk4_Card2_Prt1 = False 
+    And MontaMolhos_Wk4_Card2_Prt2 = False 
+    And MontaMolhos_Wk4_Card2_Prt3 = False 
+    And MontaMolhos_Wk4_Card2_PrtLivre = False
+
+    And MontaProteina_Wk4_Card1_Prt1 = False 
+    And MontaProteina_Wk4_Card1_Prt2 = False 
+    And MontaProteina_Wk4_Card1_Prt3 = False 
+    And MontaProteina_Wk4_Card1_PrtLivre = False 
+    And MontaProteina_Wk4_Card2_Prt1 = False 
+    And MontaProteina_Wk4_Card2_Prt2 = False 
+    And MontaProteina_Wk4_Card2_Prt3 = False 
+    And MontaProteina_Wk4_Card2_PrtLivre = False
+
+    And MontaGuarnicao_Wk4_Card1_Prt1 = False 
+    And MontaGuarnicao_Wk4_Card1_Prt2 = False 
+    And MontaGuarnicao_Wk4_Card1_Prt3 = False 
+    And MontaGuarnicao_Wk4_Card1_Prt4 = False 
+    And MontaGuarnicao_Wk4_Card1_Prt5 = False 
+    And MontaGuarnicao_Wk4_Card1_PrtLivre = False 
+    And MontaGuarnicao_Wk4_Card2_Prt1 = False 
+    And MontaGuarnicao_Wk4_Card2_Prt2 = False 
+    And MontaGuarnicao_Wk4_Card2_Prt3 = False 
+    And MontaGuarnicao_Wk4_Card2_Prt4 = False 
+    And MontaGuarnicao_Wk4_Card2_Prt5 = False 
+    And MontaGuarnicao_Wk4_Card2_PrtLivre = False    
+
+    And MontaBQOutros_Wk4_Card1_Prt1 = False 
+    And MontaBQOutros_Wk4_Card1_Prt2 = False 
+    And MontaBQOutros_Wk4_Card1_Prt3 = False 
+    And MontaBQOutros_Wk4_Card1_Prt4 = False 
+    And MontaBQOutros_Wk4_Card1_Prt5 = False 
+    And MontaBQOutros_Wk4_Card1_PrtLivre = False 
+    And MontaBQOutros_Wk4_Card2_Prt1 = False 
+    And MontaBQOutros_Wk4_Card2_Prt2 = False 
+    And MontaBQOutros_Wk4_Card2_Prt3 = False 
+    And MontaBQOutros_Wk4_Card2_Prt4 = False 
+    And MontaBQOutros_Wk4_Card2_Prt5 = False 
+    And MontaBQOutros_Wk4_Card2_PrtLivre = False    
+
+    And MontaSanduiches_Wk4_Card1_Prt1 = False 
+    And MontaSanduiches_Wk4_Card1_Prt2 = False 
+    And MontaSanduiches_Wk4_Card1_Prt3 = False 
+    And MontaSanduiches_Wk4_Card1_Prt4 = False 
+    And MontaSanduiches_Wk4_Card1_Prt5 = False 
+    And MontaSanduiches_Wk4_Card1_PrtLivre = False 
+    And MontaSanduiches_Wk4_Card2_Prt1 = False 
+    And MontaSanduiches_Wk4_Card2_Prt2 = False 
+    And MontaSanduiches_Wk4_Card2_Prt3 = False 
+    And MontaSanduiches_Wk4_Card2_Prt4 = False 
+    And MontaSanduiches_Wk4_Card2_Prt5 = False 
+    And MontaSanduiches_Wk4_Card2_PrtLivre = False
+
+    And MontaCopos_Wk4_Card1_Prt1 = False 
+    And MontaCopos_Wk4_Card1_Prt2 = False 
+    And MontaCopos_Wk4_Card1_PrtLivre = False 
+    And MontaCopos_Wk4_Card2_Prt1 = False 
+    And MontaCopos_Wk4_Card2_Prt2 = False 
+    And MontaCopos_Wk4_Card2_PrtLivre = False
+
+	
+	And MontaSalada_Wk4_Card1_Prt1 = False 
+	And MontaSalada_Wk4_Card1_Prt2 = False 
+	And MontaSalada_Wk4_Card1_PrtLivre = False 
+	And MontaSalada_Wk4_Card2_Prt1 = False 
+	And MontaSalada_Wk4_Card2_Prt2 = False 
+	And MontaSalada_Wk4_Card2_PrtLivre = False
+
+    And MontaGrOutros_Wk4_Card1_Prt1 = False 
+    And MontaGrOutros_Wk4_Card1_Prt2 = False 
+    And MontaGrOutros_Wk4_Card1_Prt3 = False 
+    And MontaGrOutros_Wk4_Card1_PrtLivre = False 
+    And MontaGrOutros_Wk4_Card2_Prt1 = False 
+    And MontaGrOutros_Wk4_Card2_Prt2 = False 
+    And MontaGrOutros_Wk4_Card2_Prt3 = False 
+    And MontaGrOutros_Wk4_Card2_PrtLivre = False
+Then
+    contaFalhas = contaFalhas + 1
+End If
+
+'//////////////////////////////////////////////////////////////////////// WEEK 5555555555555555555555555
+
+If MontaFolhas_Wk5_Card1_Prt1 = False 
+	And MontaFolhas_Wk5_Card1_Prt2 = False 
+	And MontaFolhas_Wk5_Card1_Prt3 = False 
+	And MontaFolhas_Wk5_Card1_Prt4 = False
+    And MontaFolhas_Wk5_Card2_Prt1 = False 
+    And MontaFolhas_Wk5_Card2_Prt2 = False 
+    And MontaFolhas_Wk5_Card2_Prt3 = False 
+    And MontaFolhas_Wk5_Card2_Prt4 = False 
+
+
+    And MontaLegFrut_Wk5_Card1_Prt1 = False 
+    And MontaLegFrut_Wk5_Card1_Prt2 = False 
+    And MontaLegFrut_Wk5_Card1_Prt3 = False 
+    And MontaLegFrut_Wk5_Card1_Prt4 = False 
+    And MontaLegFrut_Wk5_Card1_Prt5 = False 
+    And MontaLegFrut_Wk5_Card1_Prt6 = False 
+    And MontaLegFrut_Wk5_Card1_Prt7 = False 
+    And MontaLegFrut_Wk5_Card1_Prt8 = False 
+    And MontaLegFrut_Wk5_Card1_Prt9 = False 
+    And MontaLegFrut_Wk5_Card1_PrtLivre = False
+    And MontaLegFrut_Wk5_Card2_Prt1 = False
+    And MontaLegFrut_Wk5_Card2_Prt2 = False 
+    And MontaLegFrut_Wk5_Card2_Prt3 = False 
+    And MontaLegFrut_Wk5_Card2_Prt4 = False 
+    And MontaLegFrut_Wk5_Card2_Prt5 = False 
+    And MontaLegFrut_Wk5_Card2_Prt6 = False 
+    And MontaLegFrut_Wk5_Card2_Prt7 = False 
+    And MontaLegFrut_Wk5_Card2_Prt8 = False 
+    And MontaLegFrut_Wk5_Card2_Prt9 = False 
+    And MontaLegFrut_Wk5_Card2_PrtLivre = False 
+
+	And MontaGraos_Wk5_Card1_Prt1 = False 
+    And MontaGraos_Wk5_Card1_Prt2 = False 
+    And MontaGraos_Wk5_Card1_Prt3 = False 
+    And MontaGraos_Wk5_Card1_PrtLivre = False 
+    And MontaGraos_Wk5_Card2_Prt1 = False 
+    And MontaGraos_Wk5_Card2_Prt2 = False 
+    And MontaGraos_Wk5_Card2_Prt3 = False 
+    And MontaGraos_Wk5_Card2_PrtLivre = False
+
+    And MontaProteico_Wk5_Card1_Prt1 = False 
+    And MontaProteico_Wk5_Card1_Prt2 = False 
+    And MontaProteico_Wk5_Card1_Prt3 = False 
+    And MontaProteico_Wk5_Card1_PrtLivre = False
+    And MontaProteico_Wk5_Card2_Prt1 = False 
+    And MontaProteico_Wk5_Card2_Prt2 = False 
+    And MontaProteico_Wk5_Card2_Prt3 = False 
+    And MontaProteico_Wk5_Card2_PrtLivre = False
+
+   	And MontaMolhos_Wk5_Card1_Prt1 = False 
+   	And MontaMolhos_Wk5_Card1_Prt2 = False 
+   	And MontaMolhos_Wk5_Card1_Prt3 = False 
+   	And MontaMolhos_Wk5_Card1_PrtLivre = False 
+   	And MontaMolhos_Wk5_Card2_Prt1 = False 
+   	And MontaMolhos_Wk5_Card2_Prt2 = False 
+   	And MontaMolhos_Wk5_Card2_Prt3 = False 
+   	And MontaMolhos_Wk5_Card2_PrtLivre = False
+       
+    And MontaProteina_Wk5_Card1_Prt1 = False 
+    And MontaProteina_Wk5_Card1_Prt2 = False 
+    And MontaProteina_Wk5_Card1_Prt3 = False 
+    And MontaProteina_Wk5_Card1_PrtLivre = False 
+    And MontaProteina_Wk5_Card2_Prt1 = False 
+    And MontaProteina_Wk5_Card2_Prt2 = False 
+    And MontaProteina_Wk5_Card2_Prt3 = False 
+    And MontaProteina_Wk5_Card2_PrtLivre = False
+
+ _
+    And MontaGuarnicao_Wk5_Card1_Prt1 = False 
+    And MontaGuarnicao_Wk5_Card1_Prt2 = False 
+    And MontaGuarnicao_Wk5_Card1_Prt3 = False 
+    And MontaGuarnicao_Wk5_Card1_Prt4 = False 
+    And MontaGuarnicao_Wk5_Card1_Prt5 = False 
+    And MontaGuarnicao_Wk5_Card1_PrtLivre = False 
+    And MontaGuarnicao_Wk5_Card2_Prt1 = False 
+    And MontaGuarnicao_Wk5_Card2_Prt2 = False 
+    And MontaGuarnicao_Wk5_Card2_Prt3 = False 
+    And MontaGuarnicao_Wk5_Card2_Prt4 = False 
+    And MontaGuarnicao_Wk5_Card2_Prt5 = False 
+    And MontaGuarnicao_Wk5_Card2_PrtLivre = False
+
+ _
+     And MontaBQOutros_Wk5_Card1_Prt1 = False 
+     And MontaBQOutros_Wk5_Card1_Prt2 = False 
+     And MontaBQOutros_Wk5_Card1_Prt3 = False 
+     And MontaBQOutros_Wk5_Card1_Prt4 = False 
+     And MontaBQOutros_Wk5_Card1_Prt5 = False 
+     And MontaBQOutros_Wk5_Card1_PrtLivre = False 
+     And MontaBQOutros_Wk5_Card2_Prt1 = False 
+     And MontaBQOutros_Wk5_Card2_Prt2 = False 
+     And MontaBQOutros_Wk5_Card2_Prt3 = False 
+     And MontaBQOutros_Wk5_Card2_Prt4 = False 
+     And MontaBQOutros_Wk5_Card2_Prt5 = False 
+     And MontaBQOutros_Wk5_Card2_PrtLivre = False
+         
+
+
+
+      And MontaSanduiches_Wk5_Card1_Prt1 = False 
+      And MontaSanduiches_Wk5_Card1_Prt2 = False 
+      And MontaSanduiches_Wk5_Card1_Prt3 = False 
+      And MontaSanduiches_Wk5_Card1_Prt4 = False 
+      And MontaSanduiches_Wk5_Card1_Prt5 = False 
+      And MontaSanduiches_Wk5_Card1_PrtLivre = False 
+      And MontaSanduiches_Wk5_Card2_Prt1 = False 
+      And MontaSanduiches_Wk5_Card2_Prt2 = False 
+      And MontaSanduiches_Wk5_Card2_Prt3 = False 
+      And MontaSanduiches_Wk5_Card2_Prt4 = False 
+      And MontaSanduiches_Wk5_Card2_Prt5 = False 
+      And MontaSanduiches_Wk5_Card2_PrtLivre = False
+
+
+      And MontaCopos_Wk5_Card1_Prt1 = False 
+      And MontaCopos_Wk5_Card1_Prt2 = False 
+      And MontaCopos_Wk5_Card1_PrtLivre = False 
+      And MontaCopos_Wk5_Card2_Prt1 = False 
+      And MontaCopos_Wk5_Card2_Prt2 = False 
+      And MontaCopos_Wk5_Card2_PrtLivre = False
+
+
+      And MontaSalada_Wk5_Card1_Prt1 = False 
+      And MontaSalada_Wk5_Card1_Prt2 = False 
+      And MontaSalada_Wk5_Card1_PrtLivre = False 
+      And MontaSalada_Wk5_Card2_Prt1 = False 
+      And MontaSalada_Wk5_Card2_Prt2 = False 
+      And MontaSalada_Wk5_Card2_PrtLivre = False 
+
+       And MontaGrOutros_Wk5_Card1_Prt1 = False 
+       And MontaGrOutros_Wk5_Card1_Prt2 = False 
+       And MontaGrOutros_Wk5_Card1_Prt3 = False 
+       And MontaGrOutros_Wk5_Card1_PrtLivre = False 
+       And MontaGrOutros_Wk5_Card2_Prt1 = False 
+       And MontaGrOutros_Wk5_Card2_Prt2 = False 
+       And MontaGrOutros_Wk5_Card2_Prt3 = False 
+       And MontaGrOutros_Wk5_Card2_PrtLivre = False
+Then
+   contaFalhas = contaFalhas + 1
+End If
+
+    
+    If contaFalhas = 5 Then
+        MsgBox ("Não há dados no cardápio.")
+    Else
+        ordenaListaCompras
+        Sheets("Lista Compras").Range("G6:G72").Locked = False
+        Sheets("Lista Compras").EnableSelection = xlUnlockedCells
+        Sheets("Lista Compras").EnableOutlining = True
+    End If
