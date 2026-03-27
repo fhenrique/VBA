@@ -1,0 +1,7 @@
+D:\Green Up\Projeto\GreenUPProject\GreenUPProject\bin\Debug\GreenUPProject.exe
+D:\Green Up\Projeto\GreenUPProject\GreenUPProject\bin\Debug\GreenUPProject.pdb
+D:\Green Up\Projeto\GreenUPProject\GreenUPProject\obj\x86\Debug\GreenUPProject.Form1.resources
+D:\Green Up\Projeto\GreenUPProject\GreenUPProject\obj\x86\Debug\GreenUPProject.Properties.Resources.resources
+D:\Green Up\Projeto\GreenUPProject\GreenUPProject\obj\x86\Debug\GreenUPProject.csproj.GenerateResource.Cache
+D:\Green Up\Projeto\GreenUPProject\GreenUPProject\obj\x86\Debug\GreenUPProject.exe
+D:\Green Up\Projeto\GreenUPProject\GreenUPProject\obj\x86\Debug\GreenUPProject.pdb

@@ -1,0 +1,7 @@
+1 - Em unidade de medida, posicionar o combo no inicio quando clicar nele: OK
+2 - valores fixos no cardapio: OK
+3 - incluir o campo livre no cardapio: OK
+4 - Ver maneira de pesquisar automaticamente o conteudo de uma combobox ao digitar o nome
+5 - Incluir a coluna Modo de Preparo no cadastro de Pratos, criar maneira de gerenciar
+    um arquivo texto contendo este modo de preparo de cada prato, e colocar o link na
+    coluna

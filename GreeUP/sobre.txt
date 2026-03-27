@@ -1,0 +1,48 @@
+> que: 11/11/2018
+< que: 30/11/2018
+
+> que: |vzv|t}u|}
+< que: ~uzv|t}u|}
+
+Na iniciação da planilha roda uma função que valida se a data do pc está 
+entre uma data e outra, estas datas estão criptografadas nas 1a e 2a linhas do
+arquivo confIg.txt em c:\PlanGreenUp
+
+---------------------
+
+planilha: senha@123
+VBA: senha@123
+
+
+Objetivo: Ferramenta que facilite o Pedido de Compras e Produção do Restaurante
+
+1: A produção é centralizada, mas alimenta outras cozinhas (das outras unidades da rede)
+2: Eles possuem semanalmente, o plano de compras dos ingredientes
+3: São 02 cardápios por semana
+4: Eles controlam o estoque das unidades, diariamente recebem a posição do estoque de cada unidade,
+   com base na quantidade de itens de cada unidade, o sistema deve avisar se ele precisa pedir mais quantidade daquele
+   item para a unidade (cadastro de regras para definir a partir de que valor deve ser alertado para pedir mais
+   qtd do iten).
+
+   Criar uma lista de expedição que conterá o que deverá ser enviado para cada unidade
+5: Cadastros: Ingredientes, Fichas técnicas, Pratos
+
+1. Gerenciar o estoque de produtos que estão sendo utilizados na produção para:
+ 1.1: Emissão de relatório de produtos que precisam ser comprados;
+ 1.2: Alertas automáticos de aproximação de finalização de produtos;
+
+
+
+- Lista de compras: 
+ (Qtd de pratos que serão vendidos X os ingredientes de cada prato) - qtd do ingrediente em estoque
+
+ A lista de compra deve ser gerada, mostrando uma coluna referente ao estoque atual de cada ingrediente
+
+- Lista de produção: É uma lista que diz o se será usado para a produção de cada unidade
+ 
+- Lista de expedição: É uma lista que diz o que será enviado para cada Unidade
+
+Fazer uma lista de expedição de acordo com o dia (cronograma)a
+
+------
+
